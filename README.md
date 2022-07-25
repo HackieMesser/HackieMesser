@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HackieMesser
 - 👀 I’m interested in applied data analytics for HR consulting and BI 
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently using R and Python
 - 💞️ I’m looking to collaborate on human analytic consulting, baseball stats, football stats, anything!
 - 📫 Reach me here!
 
