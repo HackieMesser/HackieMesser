@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HackieMesser
 - 👀 I’m interested in data analytics, data science, and data engineering for consulting and BI 
-- 🌱 I’m currently using Python,R,PHP, and SQL  
+- 🌱 I’m currently using Python, R, PHP, and SQL  
 - 💞️ I’m looking to collaborate on human analytics consulting, baseball stats, football stats, anything!
 
 <!---
